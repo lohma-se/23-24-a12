@@ -1,5 +1,5 @@
 version: '2'
 services:
   hello_world:
-    image: ubuntu:latest
+    image: alpine
     command: [/bin/echo, 'Hello liebe a12']
